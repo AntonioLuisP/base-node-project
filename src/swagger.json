@@ -1,0 +1,13 @@
+{
+  "openapi": "3.0.01",
+  "info": {
+    "title": "app-name",
+    "description": "app-description",
+    "version": "1.0.0",
+    "contact": {
+      "email": ""
+    }
+  },
+  "paths": {
+  }
+}
